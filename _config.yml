@@ -1,0 +1,8 @@
+title: Cat of the Universe Games
+description: Games made with React
+theme: jekyll-theme-slate
+url: "https://paulmile.github.io"
+baseurl: ""
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
